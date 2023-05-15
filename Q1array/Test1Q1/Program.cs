@@ -52,6 +52,25 @@ namespace Test1Q1
             Console.WriteLine("Sum of all integers @ even index positions is: " + sum);
             Console.ReadKey();
 
+             // Your code goes here, find the sum of all even-index integers in the array with 6 integers:
+
+           
+            int sum = 0;
+            int index = 0;
+
+            while(index < length)
+            {
+                if(index % 2 == 0)
+                {
+                    sum = sum + intArray[index];
+                }
+                index++;
+            }
+            Console.WriteLine("Sum of all integers @ even index positions is: " + sum);
+            Console.ReadKey();
+
+
+
 
         }
     }
