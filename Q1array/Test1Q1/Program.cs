@@ -35,11 +35,13 @@ namespace Test1Q1
             Console.WriteLine("The Unsorted array:");
             DisplayArray(intArray, length);
 
-            // Your code goes here, find the sum of all even-index integers in the array with 5 integers:
+            // Your code goes here, find the sum of all even-index integers in the array with 6 integers:
 
+           
             int sum = 0;
             int index = 0;
-            while (index < length)
+
+            while(index < length)
             {
                 if(index % 2 == 0)
                 {
@@ -47,9 +49,9 @@ namespace Test1Q1
                 }
                 index++;
             }
-            Console.WriteLine("Sum of all integers @ even index positions is: "+sum);
+            Console.WriteLine("Sum of all integers @ even index positions is: " + sum);
             Console.ReadKey();
-           
+
 
         }
     }

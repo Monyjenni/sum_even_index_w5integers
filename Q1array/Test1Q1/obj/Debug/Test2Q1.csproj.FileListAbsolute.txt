@@ -22,3 +22,11 @@ C:\Users\student\Downloads\Q1array\Test1Q1\obj\Debug\Test2Q1.csproj.SuggestedBin
 C:\Users\student\Downloads\Q1array\Test1Q1\obj\Debug\Test2Q1.csproj.CoreCompileInputs.cache
 C:\Users\student\Downloads\Q1array\Test1Q1\obj\Debug\Test1Q1.exe
 C:\Users\student\Downloads\Q1array\Test1Q1\obj\Debug\Test1Q1.pdb
+C:\Users\student\sum_index\sum_even_index_w5integers\Q1array\Test1Q1\bin\Debug\Test1Q1.exe.config
+C:\Users\student\sum_index\sum_even_index_w5integers\Q1array\Test1Q1\bin\Debug\Test1Q1.exe
+C:\Users\student\sum_index\sum_even_index_w5integers\Q1array\Test1Q1\bin\Debug\Test1Q1.pdb
+C:\Users\student\sum_index\sum_even_index_w5integers\Q1array\Test1Q1\obj\Debug\Test2Q1.csproj.AssemblyReference.cache
+C:\Users\student\sum_index\sum_even_index_w5integers\Q1array\Test1Q1\obj\Debug\Test2Q1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\sum_index\sum_even_index_w5integers\Q1array\Test1Q1\obj\Debug\Test2Q1.csproj.CoreCompileInputs.cache
+C:\Users\student\sum_index\sum_even_index_w5integers\Q1array\Test1Q1\obj\Debug\Test1Q1.exe
+C:\Users\student\sum_index\sum_even_index_w5integers\Q1array\Test1Q1\obj\Debug\Test1Q1.pdb
