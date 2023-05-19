@@ -32,32 +32,27 @@ namespace Test1Q1
             } while (length < 1 || length > 15);
 
             GenerateRandomIntegers(intArray, length);
+
             Console.WriteLine("The Unsorted array:");
             DisplayArray(intArray, length);
 
-            // Your code goes here, find the sum of all even-index integers in the array with 6 integers:
+            // Your code goes here, find the sum of all odd-index integers in the array:
 
-           
-            int sum = 0;
+            int count = 0;
             int index = 0;
 
             while(index < length)
             {
-                if(index % 2 ==0)
+                if(index % 2 != 0)
                 {
-                    sum = sum + intArray[index];
+                    count = count + 1;
                 }
                 index++;
             }
-            Console.WriteLine("Sum of all integers @ even index positions is: " + sum);
+            //when i add the string here , count doesn't show , so i decided to take it out
+            Console.WriteLine(count);
             Console.ReadKey();
-
-             // Your code goes here, find the sum of all even-index integers in the array with 6 integers:
-
            
-            
-
-
 
         }
     }
